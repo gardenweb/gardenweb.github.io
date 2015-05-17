@@ -1,7 +1,7 @@
 ---
-title: Welcome to Ghost
-date: 2013-10-26
-tags: Getting Started
+title: Hola a todos
+date: 2015-05-17
+tags: Primer post del blog
 layout: post
 ---
 
