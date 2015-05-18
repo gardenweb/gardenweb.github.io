@@ -37,13 +37,13 @@ set :casper, {
     description: 'Tu blog sobre productos de jardinería y más..',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: 'logo-gardenweb.png' # Optional
+    logo: nil # Optional
   },
   author: {
-    name: 'Middleman',
+    name: 'Daniel',
     bio: nil, # Optional
     location: nil, # Optional
-    website: nil, # Optional
+    website: 'www.gardenweb.es', # Optional
     gravatar_email: nil # Optional
   },
   navigation: {
