@@ -7,5 +7,5 @@ tags:
 
 Este es el primer artículo del blog de [gardenweb](http://www.gardenweb.es)
 
-Gracias.
+Gracias y adios.
 
