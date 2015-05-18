@@ -2,7 +2,8 @@
 # Blog settings
 ###
 
-# Time.zone = "UTC"
+Time.zone = "Madrid"
+I18n.default_locale = :es
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -31,12 +32,12 @@ end
 
 set :casper, {
   blog: {
-    url: 'http://www.example.com',
-    name: 'Middleman',
-    description: 'Makes developing websites simple.',
+    url: 'http://blog.gardenweb.es',
+    name: 'Gardenweb',
+    description: 'Tu blog sobre productos de jardinería y más..',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: nil # Optional
+    logo: 'logo-gardenweb.png' # Optional
   },
   author: {
     name: 'Middleman',
