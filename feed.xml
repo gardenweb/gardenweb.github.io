@@ -14,13 +14,13 @@
     <link rel="alternate" href="http://www.example.com/2015/05/17/primer-articulo/"/>
     <id>http://www.example.com/2015/05/17/primer-articulo/</id>
     <published>2015-05-17T17:06:00+02:00</published>
-    <updated>2015-05-18T09:29:34+02:00</updated>
+    <updated>2015-05-18T19:08:29+02:00</updated>
     <author>
       <name>Middleman</name>
     </author>
     <summary type="html">Este es el primer artículo del blog de gardenweb
 
-Gracias.
+Gracias y adios.
 </summary>
   </entry>
 </feed>
