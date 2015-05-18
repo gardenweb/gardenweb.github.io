@@ -1,3 +1,4 @@
+git pull
 git add -A
 git commit -m "Post"
 git push origin source
