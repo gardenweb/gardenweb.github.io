@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Gardenweb</title>
-  <subtitle>Tu blog sobre productos de jardinería y más..</subtitle>
+  <title>Gardenweb: blog</title>
+  <subtitle>Posts tagged with blog</subtitle>
   <id>http://blog.gardenweb.es</id>
   <link href="http://blog.gardenweb.es"/>
-  <link href="http://blog.gardenweb.es/feed.xml" rel="self"/>
+  <link href="http://blog.gardenweb.es/tag/blog/feed.xml" rel="self"/>
   <updated>2015-05-17T17:06:00+02:00</updated>
   <author>
     <name>Daniel</name>
