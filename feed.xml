@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Middleman</title>
+  <subtitle>Makes developing websites simple.</subtitle>
+  <id>http://www.example.com</id>
+  <link href="http://www.example.com"/>
+  <link href="http://www.example.com/feed.xml" rel="self"/>
+  <updated>2015-05-17T17:06:00+02:00</updated>
+  <author>
+    <name>Middleman</name>
+  </author>
+  <entry>
+    <title>Primer articulo</title>
+    <link rel="alternate" href="http://www.example.com/2015/05/17/primer-articulo/"/>
+    <id>http://www.example.com/2015/05/17/primer-articulo/</id>
+    <published>2015-05-17T17:06:00+02:00</published>
+    <updated>2015-05-18T09:29:34+02:00</updated>
+    <author>
+      <name>Middleman</name>
+    </author>
+    <summary type="html">Este es el primer artículo del blog de gardenweb
+
+Gracias.
+</summary>
+  </entry>
+</feed>
