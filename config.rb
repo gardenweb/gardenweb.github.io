@@ -41,13 +41,15 @@ set :casper, {
   },
   author: {
     name: 'Daniel',
-    bio: nil, # Optional
-    location: nil, # Optional
+    bio: 'Soy una persona apasionada por la fotografía, el diseño gráfico y el branding. 
+          Me considero una persona muy adaptable y con la mente abierta a nuevas ideas. 
+          Amante de las nuevas tecnologías con un futuro para seguir formando.', # Optional
+    location: 'Elche', # Optional
     website: 'www.gardenweb.es', # Optional
-    gravatar_email: nil # Optional
+    gravatar_email: 'danielsanabriaalbert@gmail.com' # Optional
   },
   navigation: {
-    "Home" => "/"
+    "Inicio" => "/"
   }
 }
 
