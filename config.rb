@@ -61,6 +61,25 @@ activate :automatic_image_sizes
 # Reload the browser automatically whenever files change
 activate :livereload
 
+set :url_root, 'http://blog.gardenweb.es'
+activate :search_engine_sitemap
+
+# Miniaturas
+require 'middleman-thumbnailer'
+activate :thumbnailer, 
+    :dimensions => {
+    :small =>  '250x',
+    :medium => '400x',
+    :large =>  '800x',
+    :xlarge => '1024x'
+  }
+  #:include_data_thumbnails => true,
+  #:namespace_directory => %w(Paginas)
+
+# Imagen - Optimizacion
+activate :imageoptim
+
+
 activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = 'master'

@@ -4,6 +4,7 @@ date: 2015-05-17
 tags: Puma
 layout: post
 lang: es
+cover: cover-portada.jpg
 ---
 
 You're in! Nice. We've put together a little post to introduce you to the Ghost

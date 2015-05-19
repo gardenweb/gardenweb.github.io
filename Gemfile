@@ -6,6 +6,9 @@ gem 'middleman', '~> 3.3.11'
 gem 'middleman-blog', '~> 3.5.3'
 gem 'middleman-livereload', '~> 3.4.2'
 gem "middleman-deploy", "~> 1.0"
+gem 'middleman-imageoptim', '~> 0.2.0'
+gem 'middleman-thumbnailer', :git => 'https://github.com/nhemsley/middleman-thumbnailer.git'
+gem 'middleman-search_engine_sitemap'
 
 # For feed.xml.builder
 gem 'builder', '~> 3.2.2'
