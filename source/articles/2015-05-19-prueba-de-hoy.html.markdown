@@ -1,12 +1,13 @@
 ---
 title: prueba-de-hoy
-layout: page
+layout: post
 cover: cover-articulo2.jpg
-date: 2015-05-19 16:44 CEST
+date: 2015-05-19
 tags: jardinería,cañas
+lang: es
 ---
 # Cabecera 1
 Esta es una prueba
 
 ## Cabacera 2
-
+Dos
