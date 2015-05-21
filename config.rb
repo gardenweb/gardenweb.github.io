@@ -19,7 +19,7 @@ set :casper, {
     description: 'Tu blog sobre productos de jardinería y más..',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: nil # Optional
+    logo: 'logo.png' # Optional
   },
   author: {
     name: 'Daniel',
@@ -31,7 +31,10 @@ set :casper, {
     gravatar_email: 'danielsanabriaalbert@gmail.com' # Optional
   },
   navigation: {
-    "Inicio" => "/"
+    "Inicio" => "/",
+    "Artículos" => "/articulos.html",
+    "Consejos" => "tag/consejos/",
+    "Ofertas" => "tag/ofertas/"
   }
 }
 
@@ -67,14 +70,8 @@ activate :search_engine_sitemap
 # Miniaturas
 require 'middleman-thumbnailer'
 activate :thumbnailer, 
-    :dimensions => {
-    :small =>  '250x',
-    :medium => '400x',
-    :large =>  '800x',
-    :xlarge => '1024x'
-  }
-  #:include_data_thumbnails => true,
-  #:namespace_directory => %w(Paginas)
+    :dimensions => {:large =>  '800x'}
+    #:namespace_directory => %w(Cover)
 
 # Imagen - Optimizacion
 activate :imageoptim

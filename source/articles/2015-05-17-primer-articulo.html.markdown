@@ -1,10 +1,12 @@
 ---
 title: Primer articulo
 date: 2015-05-17
-tags: Puma
+tags: consejos
 layout: post
+altcover: "Texto para la imagen"
 lang: es
 cover: cover-portada.jpg
+description: "Descripción larga del artículo"
 ---
 
 You're in! Nice. We've put together a little post to introduce you to the Ghost
