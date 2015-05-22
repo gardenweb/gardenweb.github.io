@@ -83,7 +83,7 @@ configure :development do
 end
 configure :build do
   activate :disqus do |d|
-    d.shortname = "Danielgardenweb"
+    d.shortname = "bloggardenweb"
   end
 end
 
