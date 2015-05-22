@@ -76,6 +76,16 @@ activate :thumbnailer,
 # Imagen - Optimizacion
 activate :imageoptim
 
+configure :development do
+  activate :disqus do |d|
+    d.shortname = nil
+  end
+end
+configure :build do
+  activate :disqus do |d|
+    d.shortname = "Danielgardenweb"
+  end
+end
 
 activate :deploy do |deploy|
   deploy.method = :git
