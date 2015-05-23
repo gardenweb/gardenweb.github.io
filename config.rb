@@ -87,6 +87,10 @@ configure :build do
   end
 end
 
+activate :google_analytics do |ga|
+   ga.tracking_id = 'UA-39739094-2'
+end
+
 activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = 'master'
