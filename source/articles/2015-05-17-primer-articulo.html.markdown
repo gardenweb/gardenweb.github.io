@@ -6,7 +6,7 @@ layout: post
 altcover: "Texto para la imagen"
 lang: es
 cover: cover-portada.jpg
-description: "Descripción larga del artículo"
+description: "Descripción larga del artículo 1"
 ---
 
 You're in! Nice. We've put together a little post to introduce you to the Ghost
