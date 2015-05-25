@@ -9,6 +9,8 @@ cover: cover-portada.jpg
 description: "Descripción larga del artículo 1"
 ---
 
+OOOOO
+
 You're in! Nice. We've put together a little post to introduce you to the Ghost
 editor and get you started. Go ahead and edit this post to get going and learn
 how it all works!
