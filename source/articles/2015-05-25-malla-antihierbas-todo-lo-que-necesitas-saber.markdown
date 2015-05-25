@@ -68,7 +68,7 @@ Cuando no usar la malla antihierbas
 -----------------------------------
 
 -	Para plantar plantas que necesiten una gran cantidad de nutrientes. El suelo después de unos años con la malla instalada pierde nutrientes que algunas plantas pueden necesitar.
--	El cambio frecuenteme de las plantas puede crear nuevos agujeros en la tela perdiendo eficacia
+-	El cambio frecuente de las plantas puede crear nuevos agujeros en la tela perdiendo eficacia
 
 Referencias
 -----------
