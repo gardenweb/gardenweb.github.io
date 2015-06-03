@@ -31,7 +31,29 @@ Consejos para la colocación
 	2.	Si se va a poner grava encima se repartirá en diferentes puntos para una mejor distribución.
 	3.	Si se va a poner cesped artificial puedes ver [este vídeo](http://www.youtube.com/watch?v=iK5ncHhOrlE) con una explicación más detallada
 
-Especificaciones de la malla
-![](http://)
+##Especificaciones de la malla
+------------------------------
 
+
+|Parámetros técnicos | Normas    | Unidad | PPH 100 |
+|---------------------|--------|----------|
+| Peso            | En 965    | g/m2      |100
+| Resistencia fuerza | En ISO 10319 | kN/m |20/14
+| Alargamiento a romper | En ISO 10319 | %   |13/12
+| Resistencia a perforación | En ISO 12236| N  |2350
+|Abertura O90| En ISO 12956 | mm | 0,2|
+|Permeabilidad de agua h=100mm (10ªC) |En ISO 11058| l/m2s|20|
+
+|Rolos y dimensiones|
+|--------------------|
+|Longitud|100 metros|
+|Anchuras|100cm,210cm,330cm,525cm|
+
+![Malla-muestra.jpg][id]
+
+[id]: Y:\blog\gardenweb.github.io\source\images "Malla-muestra.jpg"
+
+![Malla-rollo.jpg][id]
+
+[id]: Y:\blog\gardenweb.github.io\source\images "Malla-rollo.jpg"
 
