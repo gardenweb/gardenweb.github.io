@@ -1,0 +1,15 @@
+---
+title: Catalogo de productos
+layout: page
+description: "Catalogo de productos de Gardenweb"
+date:  2015-06-03
+tags: catalogo
+cover: catalogo-de-productos.jpg
+---
+
+- data.blog.each do |familia|
+  %ul
+    %li
+      %a{:href=>familia.codfam} 
+        =familia.desfam
+
