@@ -49,11 +49,5 @@ Consejos para la colocación
 |Longitud|100 metros|
 |Anchuras|100cm,210cm,330cm,525cm|
 
-![Malla-muestra.jpg][id]
 
-[id]: Y:\blog\gardenweb.github.io\source\images "Malla-muestra.jpg"
-
-![Malla-rollo.jpg][id]
-
-[id]: Y:\blog\gardenweb.github.io\source\images "Malla-rollo.jpg"
-
+![Malla lo que sea](malla-muestra.jpg)
