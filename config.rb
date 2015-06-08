@@ -74,7 +74,7 @@ activate :thumbnailer,
     #:namespace_directory => %w(Cover)
 
 # Imagen - Optimizacion
-activate :imageoptim
+#activate :imageoptim
 
 configure :development do
   activate :disqus do |d|
