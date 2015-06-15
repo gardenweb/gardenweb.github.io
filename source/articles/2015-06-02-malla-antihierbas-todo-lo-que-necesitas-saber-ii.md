@@ -4,11 +4,12 @@ date: 2015-06-02
 tags: consejos,malla antihierbas
 layout: post
 altcover: "Ventajas y colocación"
-cover: cover-malla-antihierbas.png
+cover: malla-antihierbas-cover2.png
 description: ""
 ---
-Ventajas
---------
+
+## Ventajas
+
 
 -	Evita el encharcamiento y la putrefacción de las raíces así como el crecimiento de hongos.
 -	La malla antihierba al ser porosa proporciona una perfecta respiración a las plantas.
@@ -17,8 +18,8 @@ Ventajas
 -	Es muy resistente permitiendo el paso con carretilllas y pequeños vehículos.
 -	Disminuye la erosión del suelo así como la pérdida de tierra en zonas áridas.
 
-Consejos para la colocación
----------------------------
+## Consejos para la colocación
+
 
 1.	Añade abono a la tierra antes de colocar la malla para favorecer el crecimiento de las plantas. Creando unas mejores condiciones del suelo y que luego las plantas puedan crecer mejor.
 2.	Alisa la superficie del terreno antes de colocar la malla sobre ella para que no se creen espacios entre el suelo, impidiendo la aparición de malas hierbas y evitando que se vea la malla una vez puesta
@@ -31,21 +32,31 @@ Consejos para la colocación
 	2.	Si se va a poner grava encima se repartirá en diferentes puntos para una mejor distribución.
 	3.	Si se va a poner cesped artificial puedes ver [este vídeo](http://www.youtube.com/watch?v=iK5ncHhOrlE) con una explicación más detallada
 
-##Especificaciones de la malla
-------------------------------
+## Especificaciones de la malla
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 |Parámetros técnicos | Normas    | Unidad | PPH 100 |
-|---------------------|--------|----------|
-| Peso            | En 965    | g/m2      |100
-| Resistencia fuerza | En ISO 10319 | kN/m |20/14
-| Alargamiento a romper | En ISO 10319 | %   |13/12
-| Resistencia a perforación | En ISO 12236| N  |2350
+| ------------------ | --------- | ------ | ------- |
+| Peso               | En 965    | g/m2   | 100     |
+
+| Resistencia fuerza | En ISO 10319 | kN/m | 20/14 |
+| Alargamiento a romper | En ISO 10319 | %   |13/12 |
+| Resistencia a perforación | En ISO 12236| N  |2350|
 |Abertura O90| En ISO 12956 | mm | 0,2|
 |Permeabilidad de agua h=100mm (10ªC) |En ISO 11058| l/m2s|20|
 
-|Rolos y dimensiones|
-|--------------------|
+|Rollos | dimensiones|
+|-------|-------------|
 |Longitud|100 metros|
 |Anchuras|100cm,210cm,330cm,525cm|
 
