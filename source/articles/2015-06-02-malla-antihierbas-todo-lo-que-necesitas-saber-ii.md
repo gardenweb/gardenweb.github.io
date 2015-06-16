@@ -33,22 +33,10 @@ description: ""
 	3.	Si se va a poner cesped artificial puedes ver [este vídeo](http://www.youtube.com/watch?v=iK5ncHhOrlE) con una explicación más detallada
 
 ## Especificaciones de la malla
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 |Parámetros técnicos | Normas    | Unidad | PPH 100 |
 | ------------------ | --------- | ------ | ------- |
 | Peso               | En 965    | g/m2   | 100     |
-
 | Resistencia fuerza | En ISO 10319 | kN/m | 20/14 |
 | Alargamiento a romper | En ISO 10319 | %   |13/12 |
 | Resistencia a perforación | En ISO 12236| N  |2350|
