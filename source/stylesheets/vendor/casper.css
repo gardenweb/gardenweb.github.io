@@ -244,12 +244,25 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+    color: #111;
+    //#color: #4A4A4A;
     transition: color 0.3s ease;
 }
 
 a:hover {
     color: #111;
+}
+
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+}
+a:visited {
+  font-weight: bold;
+  text-decoration: line-through;
+}
+a:hover, a:focus {
+  text-decoration: underline;
 }
 
 p, ul, ol, dl {
