@@ -47,7 +47,7 @@ ready do
   blog.tags.each do |tag, articles|
     proxy "/tag/#{tag.downcase.parameterize}/feed.xml", '/feed.xml', layout: false do
       @tagname = tag
-      @articles = articles[0..5]
+      @articles = articles[0..10]
     end
   end
 
