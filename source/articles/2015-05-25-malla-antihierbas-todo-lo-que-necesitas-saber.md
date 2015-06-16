@@ -4,7 +4,7 @@ date: 2015-05-25
 tags: consejos,malla antihierbas
 layout: post
 altcover: "Ejemplo de utilización de malla antihierbas"
-cover: cover-malla-antihierbas.png
+cover: malla-antihierbas-cover.png
 description: ""
 ---
 
