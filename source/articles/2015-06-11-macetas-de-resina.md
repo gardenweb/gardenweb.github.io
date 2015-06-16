@@ -7,9 +7,9 @@ altcover: "Macetas de resina y sus características"
 cover: macetas-resina-cover.png
 description: ""
 ---
-# MACETAS DE RESINA
 
-##Las macetas de resina de polietileno son unas de las más resistenes del mercado.
+
+#Las macetas de resina de polietileno son unas de las más resistenes del mercado.
 
 La calidad de estas macetas de polietileno está garantizada tanto por la materia prima utilizada como por su proceso de fabricación.
 
@@ -25,7 +25,8 @@ Sin embargo, los resultados tan espectaculares bien justifican ese tiempo, ya se
 Por lo tanto quedarnos con que la **resina** es un material muy resistente y ligero. Con una gran adaptabilidad a los cambios de temperatura. Estas características además de dotarles de un mayor atractivo, se conservan mucho mejor y las hace una mejor elección frente a macetas de plástio y barro.
 
 
-
+I get 10 times more traffic from [Google][www.google.es] than from
+[Yahoo][www.yahoo.com] or [MSN][www.msn.com].
 Características técnicas de las macetas de resina:
 
 - Material 100% reciclable.
