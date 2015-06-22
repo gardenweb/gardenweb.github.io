@@ -1,11 +1,11 @@
 
 ---
-title: ¿Cómo elegir tu maceta? (Plástico)
+title: Cómo elegir tu maceta
 date: 2015-06-22
 tags: Macetas, resina, consejos
 layout: post
-altcover: "Elegir maceta plástico"
-cover: maceta-plastico-cover.png
+altcover: Elegir maceta plástico
+cover: maceta-plastico-cover.jpg
 description: ""
 ---
 #Como elegir la mejor maceta para tu planta (Plástico)
