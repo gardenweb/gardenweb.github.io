@@ -4,8 +4,8 @@ title: Cómo elegir tu maceta
 date: 2015-06-22
 tags: Macetas, resina, consejos
 layout: post
-altcover: Elegir maceta plástico
-cover: maceta-plastico-cover.jpg
+altcover: "Elegir maceta plástico"
+cover: macetas-resina-cover.png
 description: ""
 ---
 #Como elegir la mejor maceta para tu planta (Plástico)
@@ -25,4 +25,6 @@ Las raices es el soporte de nuestra planta y por ello debemos intentar que siemp
 - Se degradan estando fuera.
 - Su ligereza puede hacer que vuelquen con fuertes rachas de viento.
 
-[![Maceta de plástico](Balconetta-Venerev2.png)](http://http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=7469)
+<a href="http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=7469">
+	[Maceta de plástico](Balconetta-Venerev2.png)
+</a>
