@@ -4,11 +4,7 @@ date: 2015-06-22
 tags: Macetas, resina, consejos
 layout: post
 altcover: "Elegir maceta plástico"
-<<<<<<< HEAD
-cover: macetas-resina-cover.png
-=======
 cover: maceta-plastico-cover.jpg
->>>>>>> bc4967579e2ff32ac02e0dc7fe7c907431ed046c
 description: ""
 ---
 
@@ -30,10 +26,6 @@ Las raices es el soporte de nuestra planta y por ello debemos intentar que siemp
 - Se degradan estando fuera.
 - Su ligereza puede hacer que vuelquen con fuertes rachas de viento.
 
-<<<<<<< HEAD
-<a href="http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=7469">
-	[Maceta de plástico](Balconetta-Venerev2.png)
+<a href="http://www.gardenweb.es">
+  <img style="border-style: solid; border-width: 5px;" src="/images/Balconetta-Venerev2.png" />
 </a>
-=======
-
->>>>>>> bc4967579e2ff32ac02e0dc7fe7c907431ed046c
