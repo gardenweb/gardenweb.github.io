@@ -8,8 +8,11 @@ cover: catalogo-de-productos.jpg
 ---
 
 - data.blog.each do |familia|
-  %ul
-    %li
-      %a{:href=>familia.codfam} 
-        =familia.desfam
+  %div{:href=>familia.codfam} 
+    =familia.desfam
+      %ul
+        - familia.subdamilias do |subfamilia|
+          %li
+            =subfamilia.descripcion
+      
 
