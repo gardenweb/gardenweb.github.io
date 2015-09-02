@@ -1,10 +1,10 @@
 ---
-title: ¿Enturar,para que sirve?
+title: Enturar para que sirve
 date: 2015-09-02
 tags: Tutor, entutorar, tutores, huerto
 layout: post
 altcover: "Descripción tutor y entutorar"
-cover: maceta-plastico-cover.jpg
+cover: tutor-bambu.jpg
 description: ""
 ---
 
