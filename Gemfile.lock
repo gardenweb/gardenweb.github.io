@@ -195,6 +195,3 @@ DEPENDENCIES
   middleman-thumbnailer!
   nokogiri (~> 1.6.6.2)
   redcarpet (~> 3.2.3)
-
-BUNDLED WITH
-   1.10.4
