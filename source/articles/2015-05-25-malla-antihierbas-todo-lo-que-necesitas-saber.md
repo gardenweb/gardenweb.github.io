@@ -11,7 +11,7 @@ description: ""
 ¿Qué es la malla antihierbas?
 -----------------------------
 
-La tela antihierbas fabricada con material geotextil es la solución ideal para instalaciones en jardines en las que se quiera asegurarla desaparición de malezas sin utilizar productos químicos, permitiendo que el agua filtre a través de la tela al suelo evitando los encharcamientos.
+La [tela antihierbas](http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=5133) fabricada con material geotextil es la solución ideal para instalaciones en jardines en las que se quiera asegurarla desaparición de malezas sin utilizar productos químicos, permitiendo que el agua filtre a través de la tela al suelo evitando los encharcamientos.
 Es una tela de superficie porosa tejida con cintas de polipopileno duraderas. Su color principal es el negro. Tiene una medida y grosor variable, que comunmente se encuentra entre 1-5 metros y su peso oscila entre los 100 y 130 gr./m2.
 
 

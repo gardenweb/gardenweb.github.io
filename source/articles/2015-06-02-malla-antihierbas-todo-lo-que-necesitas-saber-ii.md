@@ -32,7 +32,7 @@ description: ""
 	2.	Si se va a poner grava encima se repartirá en diferentes puntos para una mejor distribución.
 	3.	Si se va a poner cesped artificial puedes ver [este vídeo](http://www.youtube.com/watch?v=iK5ncHhOrlE) con una explicación más detallada
 
-## Especificaciones de la malla
+## Especificaciones de la [malla en gardenweb](http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=5133)
 
 |Parámetros técnicos | Normas    | Unidad | PPH 100 |
 | ------------------ | --------- | ------ | ------- |
@@ -48,5 +48,7 @@ description: ""
 |Longitud|100 metros|
 |Anchuras|100cm,210cm,330cm,525cm|
 
+<a href="http://http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=5133">
+  <img src="/images/malla-muestra.jpg" />
+</a>
 
-![Malla lo que sea](malla-muestra.jpg)
