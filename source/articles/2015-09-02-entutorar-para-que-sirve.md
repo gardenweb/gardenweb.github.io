@@ -19,7 +19,7 @@ Las plantas deben entutorarse bastante temprano, para que las raices no sufran p
 <a href="http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=1768/">
   <img src="/images/tutor-tomate.jpg" />
 </a>
-foto de [pixybay](www.pixabay.com)
+foto de [pixyabay](http://www.pixabay.com)
 
 ###Materiales de [nuestros tutores](http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=1768)
 - La [caña de bambú](http://www.gardenweb.es/FichaArticulo.aspx?IDArticulo=1768) es un material totalmente natural, muy robusto y especialmente **flexible**, hacen de la caña de bambú sea un producto ideal para el entutorado de todo tipo de plantas.
