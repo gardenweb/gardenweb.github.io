@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Gardenweb: fertilizante</title>
+  <subtitle>Posts tagged with fertilizante</subtitle>
+  <id>http://blog.gardenweb.es</id>
+  <link href="http://blog.gardenweb.es"/>
+  <link href="http://blog.gardenweb.es/tag/fertilizante/feed.xml" rel="self"/>
+  <updated>2015-09-15T00:00:00+02:00</updated>
+  <author>
+    <name>Daniel</name>
+  </author>
+  <entry>
+    <title>Osmocote Exact, el más seguro</title>
+    <link rel="alternate" href="http://blog.gardenweb.es/2015/09/15/osmocote-exact-el-mas-seguro/"/>
+    <id>http://blog.gardenweb.es/2015/09/15/osmocote-exact-el-mas-seguro/</id>
+    <published>2015-09-15T00:00:00+02:00</published>
+    <updated>2015-09-15T17:54:10+02:00</updated>
+    <author>
+      <name>Daniel</name>
+    </author>
+    <summary type="html">Hoy os presentamos el Osmocote Exact de más alta gama, una apuesta segura para nuestros cultivos. Un fertilizante para cualquier tipo de cultivo tanto para invernaderos como al aire libre.
+Osmocote exact es un fertilizante de liberación lenta encapsulado</summary>
+  </entry>
+</feed>
