@@ -12,6 +12,9 @@ Osmocote exact es un **fertilizante de liberación lenta** encapsulado de muy al
 Independientemente de las circunstancias a las que esté sometido el producto  va a dar muy buenos resultados. Se aplica de una forma muy simple a las plantas, que las mantiene sanas incluso después de su venta. 
 Es un producto que está muy pensado para profesionales,pero también puede ser usado por particulares que quieran  mejorar la producción y garantizar el mejor alimento a nuestras plantas.
 
+<a href="http://www.gardenweb.es/Seccion.aspx?IDSeccionArticulo=311">
+  <img src="/images/Osmocote-Exact.jpg">
+</a>
 
 
 
