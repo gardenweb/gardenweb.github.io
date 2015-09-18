@@ -4,7 +4,7 @@ date: 2015-09-02
 tags: Tutor, entutorar, tutores, huerto
 layout: post
 altcover: "Cañas de bambú para tutor / Tutor de bambú"
-cover: tutor-bambu.jpg
+cover: Canas-de-bambu.jpg
 description: ""
 ---
 
